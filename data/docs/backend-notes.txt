@@ -1,0 +1,5 @@
+FastAPI is a Python web framework designed around type hints and asynchronous request handling. It can automatically expose OpenAPI documentation.
+
+WebSockets provide a persistent, bidirectional communication channel between a client and server. They are useful for real-time dashboards, notifications and interactive applications.
+
+A reliable backend should validate inputs, return explicit errors, isolate external dependencies and expose health checks for operational visibility.

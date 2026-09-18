@@ -1,0 +1,5 @@
+Gradient descent is an iterative optimization algorithm used to minimize a differentiable objective function. At each step, parameters are updated in the direction opposite the gradient. The learning rate controls the step size.
+
+Logistic regression models the probability of a binary outcome using the sigmoid function. Binary cross-entropy is commonly used as its loss function.
+
+Model evaluation should use metrics appropriate to the task. Accuracy can be misleading on imbalanced datasets, where precision, recall and F1 can provide more useful information.

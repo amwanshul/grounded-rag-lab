@@ -1,0 +1,7 @@
+[
+  {"query": "what controls the step size in gradient descent", "relevant": ["ml-notes"]},
+  {"query": "why use precision and recall", "relevant": ["ml-notes"]},
+  {"query": "what are WebSockets useful for", "relevant": ["backend-notes"]},
+  {"query": "what does reciprocal rank fusion combine", "relevant": ["rag-notes"]},
+  {"query": "why would a RAG system abstain", "relevant": ["rag-notes"]}
+]

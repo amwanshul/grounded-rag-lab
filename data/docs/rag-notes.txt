@@ -1,0 +1,7 @@
+Retrieval-augmented generation combines information retrieval with a language model. A retrieval layer selects evidence before generation.
+
+Hybrid retrieval combines multiple retrieval strategies because lexical and semantic methods can fail on different query types. Reciprocal Rank Fusion can combine ranked lists without requiring scores to be calibrated to the same scale.
+
+Reranking is a second-stage retrieval step that scores a smaller candidate set with a more expressive model. An abstention policy allows a system to refuse an answer when evidence is insufficient.
+
+Grounded answers should preserve provenance. Each passage should retain document identity so generated claims can be traced back to evidence.
