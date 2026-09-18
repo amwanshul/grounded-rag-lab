@@ -1,5 +1,15 @@
 # Grounded RAG Lab
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/RAG-Hybrid_BM25_%2B_Dense-orange?style=flat-square" alt="Hybrid RAG">
+  <img src="https://img.shields.io/badge/Evaluation-Recall%405_%26_MRR-blue?style=flat-square" alt="Evaluation">
+  <img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square" alt="CI">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
+</p>
+
+
 Evidence-first retrieval for document question answering.
 
 This project is a deliberately transparent RAG system built around **chunking, retrieval, fusion, reranking, citation tracking, abstention, and evaluation**.
